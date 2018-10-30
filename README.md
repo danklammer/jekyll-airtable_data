@@ -12,7 +12,7 @@ gem 'jekyll-airtable_data'
 
 Add Airtable settings to your _config.yml file:
 
-```
+```yml
 airtable_data:
   api_key: [Your Airtable API Key] # Airtable API key available in the API documentation for your base
   app_id: [Your Airtable App ID] # Airtable app ID found in the API documentation for your base

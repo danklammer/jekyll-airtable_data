@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Jekyll::AirtableData::VERSION
   spec.date          = "2018-10-29"
   spec.summary       = "Airtable Data"
-  spec.description   = "Jekyll plugin to pull down your Airtable tables to Datafiles.json"
+  spec.description   = "Jekyll plugin to pull down your Airtable tables as Datafiles (JSON) through Jekyll Commands"
   spec.authors       = ["Dan Klammer"]
   spec.homepage      = "https://github.com/danklammer/jekyll-airtable_data"
   spec.license       = "MIT"
