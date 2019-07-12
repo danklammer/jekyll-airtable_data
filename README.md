@@ -24,6 +24,6 @@ airtable_data:
 
 ## Run Airtable Data
 
-Execute via Jekyll Command as needed:
+Execute via Jekyll Command as needed (and works great with Netlify's Build command):
 
     $ bundle exec jekyll airtable_data
